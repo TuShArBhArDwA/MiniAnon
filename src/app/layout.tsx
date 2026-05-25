@@ -22,20 +22,52 @@ const instrumentSerif = Instrument_Serif({
 })
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://tushar.minianon.in'),
-  title: 'Tushar Bhardwaj',
-  description: 'Deep in vibe-coding mode – building AI-powered developer tools at light speed.',
+  metadataBase: new URL('https://minianon.in'),
+  title: 'Tushar Bhardwaj — Mini Anon | Software Engineer & AI Builder',
+  description: 'Tushar Bhardwaj, known online as Mini Anon. Software engineer and AI builder shipping full-stack applications, SaaS products, and developer tools from zero to one.',
+  keywords: [
+    'Tushar Bhardwaj',
+    'Mini Anon',
+    'minianon',
+    'software engineer',
+    'AI builder',
+    'developer',
+    'SaaS',
+    'portfolio',
+    'Microsoft intern',
+    'full-stack developer',
+  ],
+  alternates: {
+    canonical: 'https://minianon.in',
+  },
   openGraph: {
-    url: 'https://tushar.minianon.in/',
-    siteName: 'Tushar Bhardwaj Portfolio',
+    title: 'Tushar Bhardwaj — Mini Anon | Software Engineer & AI Builder',
+    description: 'Software engineer and AI builder shipping full-stack applications, SaaS products, and developer tools from zero to one.',
+    url: 'https://minianon.in/',
+    siteName: 'Tushar Bhardwaj — Mini Anon',
     locale: 'en_US',
     type: 'website',
     images: [{
       url: '/open-graph.png',
       width: 1200,
       height: 630,
-      alt: 'Tushar Bhardwaj - Portfolio'
+      alt: 'Tushar Bhardwaj — Mini Anon'
     }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Tushar Bhardwaj — Mini Anon | Software Engineer & AI Builder',
+    description: 'Software engineer and AI builder shipping full-stack applications, SaaS products, and developer tools from zero to one.',
+    creator: '@Tusharab2004',
+    images: ['/open-graph.png'],
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+    },
   },
 };
 
