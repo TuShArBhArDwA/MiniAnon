@@ -1,6 +1,6 @@
 # Tushar Bhardwaj
 
-Member of Technical Staff at Mem0 | Ex-Microsoft Software Engineering Intern
+Software Engineer | AI Builder | Ex-Microsoft Software Engineering Intern
 
 Portfolio: [tushar.minianon.in](https://tushar.minianon.in)  
 MiniLink: [link.minianon.in/tusharbhardwaj](https://link.minianon.in/tusharbhardwaj)
@@ -9,9 +9,7 @@ MiniLink: [link.minianon.in/tusharbhardwaj](https://link.minianon.in/tusharbhard
 
 ## About
 
-I build from zero to one. Known online as Mini Anon, I am a software engineer and AI builder who takes ideas to production at light speed. Shipped high-performance container reconciliation controllers as a Software Engineering Intern at Microsoft, and currently engineering the universal memory layer for AI agents as a Member of Technical Staff at Mem0.
-
-I work across the entire product lifecycle—from visual interface design to serverless deployment to user feedback loops. I care less about theoretical stack debates and more about shipping functional tools that solve real problems.
+I build from zero to one. Known online as Mini Anon, I am a software engineer and AI builder who takes ideas to production at light speed. Having shipped high-performance systems as a Software Engineering Intern at Microsoft, I engineer full-stack applications—from visual workflow canvases to SaaS platforms featured at Times Square. I work across the entire product lifecycle, focusing less on stack debates and more on delivering products that solve real-world problems.
 
 ---
 
@@ -60,6 +58,6 @@ Curated developer study systems and engineering playbooks:
 ## Elsewhere
 
 * LinkedIn: [bhardwajtushar2004](https://www.linkedin.com/in/bhardwajtushar2004/)
-* Twitter: [Joni_vrbt](https://x.com/Joni_vrbt)
+* Twitter: [Tusharab2004](https://x.com/Tusharab2004)
 * Medium: [bhardwajtushar2004](https://medium.com/@bhardwajtushar2004)
 * Topmate: [tusharbhardwaj](https://topmate.io/tusharbhardwaj)
