@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Main Pages -->
+  <url>
+    <loc>https://tushar.minianon.in/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://tushar.minianon.in/open-graph.png</image:loc>
+      <image:title>Tushar Bhardwaj - Portfolio</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://tushar.minianon.in/projects</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://tushar.minianon.in/blogs</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Individual Project Pages -->
+  <url>
+    <loc>https://tushar.minianon.in/projects/shortlistme</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tushar.minianon.in/images/foliox.png</image:loc>
+      <image:title>ShortlistMe - Transform your resume into a stunning portfolio</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://tushar.minianon.in/projects/weaave</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tushar.minianon.in/images/bettershot.png</image:loc>
+      <image:title>Weaave - Drag-and-drop AI workflows node canvas</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://tushar.minianon.in/projects/minilink</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tushar.minianon.in/images/oneurl.png</image:loc>
+      <image:title>MiniLink - Free and ad-free Linktree alternative</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://tushar.minianon.in/projects/hirelens</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tushar.minianon.in/images/satyacheck.png</image:loc>
+      <image:title>HireLens - AI resume screening and rankings</image:title>
+    </image:image>
+  </url>
+  
+</urlset>
