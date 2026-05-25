@@ -23,7 +23,7 @@ const instrumentSerif = Instrument_Serif({
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://minianon.in'),
-  title: 'Tushar Bhardwaj — Mini Anon | Software Engineer & AI Builder',
+  title: 'Tushar Bhardwaj',
   description: 'Tushar Bhardwaj, known online as Mini Anon. Software engineer and AI builder shipping full-stack applications, SaaS products, and developer tools from zero to one.',
   keywords: [
     'Tushar Bhardwaj',
